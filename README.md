@@ -1,3 +1,3 @@
 # BinarySearch
 
-A description of this package.
+Extensions for RandomAccessCollection to allow for Binary Searching
